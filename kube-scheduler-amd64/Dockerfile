@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.17.1
+FROM k8s.gcr.io/kube-scheduler:v1.15.1
 MAINTAINER znyfn
